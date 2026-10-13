@@ -1,0 +1,3 @@
+[submodule "ddaanet"]
+	path = ddaanet
+	url = git@github.com:ddaanet/ddaanet-memory.git
